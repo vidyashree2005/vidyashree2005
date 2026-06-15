@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vidya%20Shree%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Building%20Intelligent%20Solutions&descAlignY=62&descSize=16" />
-</p>
-
-<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+AI+%26+ML+Engineer+from+Bengaluru%2C+India;%F0%9F%8C%90+Full-Stack+Web+Developer+%7C+React+%2B+Django;%F0%9F%A7%A0+Building+Smart+Systems+with+CNNs+%26+LSTMs;%F0%9F%92%BB+Python+%7C+JavaScript+%7C+MySQL+%7C+MongoDB" alt="Typing SVG" />
   </a>
@@ -84,39 +80,6 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vidyashrees&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyashrees&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vidyashrees&theme=tokyonight&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FFA500&currStreakLabel=70A5FD" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vidyashrees&theme=tokyo-night&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vidyashrees&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
 
 ## 💼 Work Experience
 
